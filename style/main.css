@@ -148,7 +148,8 @@ body
     height: 100vh;
 
     background: url(rana-sawalha-364253-unsplash.png) no-repeat;
-    background-size: 100%;
+    background-size: cover;
+    background-position: center;
 }
 
 header
